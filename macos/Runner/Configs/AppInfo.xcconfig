@@ -8,7 +8,7 @@
 PRODUCT_NAME = demo0313
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.demo0313
+PRODUCT_BUNDLE_IDENTIFIER = 7H355WS5Z9.app.ikun761
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2024 com.example. All rights reserved.
